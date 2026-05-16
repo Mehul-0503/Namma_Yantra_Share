@@ -134,7 +134,7 @@ object Constants {
 ### Step 1 — Clone / Extract the Project
 ```bash
 # If cloning from GitHub
-git clone https://github.com/<your-username>/namma-yantra-share.git
+git clone https://github.com/Mehul-0503/Namma_Yantra_Share.git
 cd namma-yantra-share
 
 # Or extract the provided ZIP

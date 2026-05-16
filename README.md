@@ -138,7 +138,7 @@ git clone https://github.com/<your-username>/namma-yantra-share.git
 cd namma-yantra-share
 
 # Or extract the provided ZIP
-unzip "Namma_Yantra_App_Fixed_v7.zip"
+unzip "Namma_Yantra_Share"
 cd "Namma Yantra App"
 ```
 

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary palette - Forest/Emerald Green (Agricultural theme) -->
+    <color name="primary">#00875A</color>
+    <color name="primary_dark">#006644</color>
+    <color name="primary_light">#E3FCEF</color>
+    <color name="primary_variant">#36B37E</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <!-- Secondary palette - Harvest Gold/Amber -->
+    <color name="secondary">#FF991F</color>
+    <color name="secondary_dark">#FF8B00</color>
+    <color name="secondary_light">#FFF0B3</color>
+    <color name="on_secondary">#172B4D</color>
+
+    <!-- Tertiary palette - Slate/Dark Earth -->
+    <color name="tertiary">#42526E</color>
+    <color name="tertiary_light">#6B778C</color>
+
+    <!-- Surface colors - Premium Neutral -->
+    <color name="surface">#F4F5F7</color>
+    <color name="surface_variant">#EBECF0</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="on_surface">#172B4D</color>
+    <color name="on_surface_variant">#42526E</color>
+    <color name="background">#FFFFFF</color>
+
+    <!-- Status colors - Clear and Accessible -->
+    <color name="status_pending">#FF8B00</color>
+    <color name="status_pending_bg">#FFF0B3</color>
+    <color name="status_accepted">#36B37E</color>
+    <color name="status_accepted_bg">#E3FCEF</color>
+    <color name="status_declined">#FF5630</color>
+    <color name="status_declined_bg">#FFEBE6</color>
+
+    <!-- UI colors -->
+    <color name="divider">#DFE1E6</color>
+    <color name="shimmer_base">#EBECF0</color>
+    <color name="shimmer_highlight">#F4F5F7</color>
+    <color name="text_primary">#172B4D</color>
+    <color name="text_secondary">#42526E</color>
+    <color name="text_hint">#7A869A</color>
+    <color name="icon_tint">#505F79</color>
+    <color name="rating_star">#FFAB00</color>
+    <color name="error">#BF2600</color>
+
+    <!-- Gradient colors -->
+    <color name="gradient_start">#006644</color>
+    <color name="gradient_center">#00875A</color>
+    <color name="gradient_end">#36B37E</color>
+
+    <!-- Bottom nav -->
+    <color name="bottom_nav_bg">#FFFFFF</color>
+    <color name="bottom_nav_active">#00875A</color>
+    <color name="bottom_nav_inactive">#7A869A</color>
+
+    <!-- Splash -->
+    <color name="splash_bg">#006644</color>
+
+    <!-- Card shadow overlay -->
+    <color name="card_overlay">#0D000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+</resources>

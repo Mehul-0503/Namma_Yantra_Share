@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Namma-Yantra Share</string>
+    <string name="app_tagline">Rent Farm Machinery Nearby</string>
+
+    <!-- Auth -->
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="new_user">New user? Create account</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="join_us">Join Our Community</string>
+    <string name="login_subtitle">Sign in to find machinery near you</string>
+    <string name="signup_subtitle">Register to rent or list equipment</string>
+
+    <!-- Roles -->
+    <string name="farmer">Farmer</string>
+    <string name="owner">Equipment Owner</string>
+    <string name="role_farmer">🌾 I need machinery</string>
+    <string name="role_owner">🚜 I own machinery</string>
+
+    <!-- Home -->
+    <string name="search_hint">Search machines, owners…</string>
+    <string name="nearby_machines">Nearby Machines</string>
+    <string name="all_equipment">All Equipment</string>
+    <string name="no_machines_found">No machines available nearby</string>
+    <string name="pull_to_refresh">Pull to refresh</string>
+    <string name="km_away">%s km away</string>
+    <string name="per_hour">₹%s/hr</string>
+    <string name="per_day">₹%s/day</string>
+
+    <!-- Detail -->
+    <string name="equipment_details">Equipment Details</string>
+    <string name="description">Description</string>
+    <string name="pricing">Pricing</string>
+    <string name="hourly_rate">Hourly Rate</string>
+    <string name="daily_rate">Daily Rate</string>
+    <string name="availability">Availability</string>
+    <string name="available">Available</string>
+    <string name="unavailable">Currently Unavailable</string>
+    <string name="condition_label">Condition</string>
+    <string name="last_service">Last Service</string>
+    <string name="book_now">Book Now</string>
+    <string name="request_booking">Request Booking</string>
+
+    <!-- Booking -->
+    <string name="select_date">Select Date</string>
+    <string name="select_duration">Duration</string>
+    <string name="hourly">Hourly</string>
+    <string name="daily">Daily</string>
+    <string name="total_price">Total: ₹%s</string>
+    <string name="booking_success">Booking request sent successfully!</string>
+    <string name="booking_conflict">This machine is already booked for the selected time slot.</string>
+    <string name="no_date_selected">No date selected</string>
+    <string name="enter_duration">Enter duration</string>
+    <string name="hours_label">hours</string>
+    <string name="days_label">days</string>
+
+    <!-- My Bookings -->
+    <string name="my_bookings">My Bookings</string>
+    <string name="no_bookings">No bookings yet</string>
+    <string name="status_pending">Pending</string>
+    <string name="status_accepted">Accepted</string>
+    <string name="status_declined">Declined</string>
+
+    <!-- Owner Dashboard -->
+    <string name="owner_dashboard">Dashboard</string>
+    <string name="booking_requests">Booking Requests</string>
+    <string name="no_requests">No booking requests</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="add_machine">Add Machine</string>
+
+    <!-- Profile -->
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="manage_machines">Manage Equipment</string>
+    <string name="view_dashboard">Owner Dashboard</string>
+
+    <!-- General -->
+    <string name="loading">Loading…</string>
+    <string name="error_occurred">Something went wrong. Please try again.</string>
+    <string name="retry">Retry</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Bottom Nav -->
+    <string name="nav_home">Home</string>
+    <string name="nav_bookings">Bookings</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Add Machine -->
+    <string name="machine_name">Machine Name</string>
+    <string name="machine_description">Description</string>
+    <string name="machine_hourly_rate">Hourly Rate (₹)</string>
+    <string name="machine_daily_rate">Daily Rate (₹)</string>
+    <string name="machine_condition">Condition (1-5)</string>
+    <string name="machine_service_date">Last Service Date</string>
+    <string name="save_machine">Save Machine</string>
+    <string name="machine_added">Machine added successfully!</string>
+    <string name="my_machines">My Machines</string>
+</resources>

@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/drawable_ripple_card.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/drawable/ripple_card.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/drawable_ic_location.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/drawable/ic_location.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/layout_activity_main.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/drawable_bg_status_pending.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/drawable/bg_status_pending.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/drawable_bg_status_accepted.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/drawable/bg_status_accepted.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/drawable_bg_card_header_overlay.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/drawable/bg_card_header_overlay.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/drawable_ic_empty_bookings.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/drawable/ic_empty_bookings.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/color_bottom_nav_color.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/color/bottom_nav_color.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/drawable_ic_tractor.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/drawable/ic_tractor.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/drawable_bg_circle_white.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/drawable/bg_circle_white.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/layout_fragment_profile.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/drawable_bg_machine_icon.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/drawable/bg_machine_icon.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/layout_item_booking.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/layout/item_booking.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/drawable_ic_lock.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/layout_fragment_home.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/drawable_bg_auth_form.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/drawable/bg_auth_form.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/drawable_bg_status_badge.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/drawable/bg_status_badge.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/layout_activity_owner_dashboard.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/layout/activity_owner_dashboard.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/drawable_bg_gradient_primary.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/drawable/bg_gradient_primary.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/drawable_ic_bookings.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/drawable/ic_bookings.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/drawable_ic_profile.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/layout_fragment_my_bookings.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/layout/fragment_my_bookings.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/layout_activity_login.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/menu_menu_bottom_nav.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/menu/menu_bottom_nav.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/drawable_bg_error_banner.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/drawable/bg_error_banner.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/drawable_ic_close.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/drawable_ic_home.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/drawable_bg_search_bar.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/drawable/bg_search_bar.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/drawable_bg_status_declined.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/drawable/bg_status_declined.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/layout_activity_splash.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/drawable_bg_circle_avatar.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/drawable/bg_circle_avatar.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/layout_item_machine.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/layout/item_machine.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/layout_activity_signup.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/layout_activity_equipment_detail.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/layout/activity_equipment_detail.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/drawable_ic_star_outline.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/drawable/ic_star_outline.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/drawable_ic_search.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/layout_item_owner_machine.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/layout/item_owner_machine.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/drawable_ic_star.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/drawable/ic_star.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-debug-48:/layout_activity_add_machine.xml.flat",
+        "source": "com.nammayantra.share.app-main-50:/layout/activity_add_machine.xml"
+    }
+]

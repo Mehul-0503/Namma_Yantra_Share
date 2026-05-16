@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.nammayantra.share.app-mergeDebugResources-47:/layout/activity_login.xml",
+        "source": "com.nammayantra.share.app-main-50:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-mergeDebugResources-47:/layout/item_machine.xml",
+        "source": "com.nammayantra.share.app-main-50:/layout/item_machine.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-mergeDebugResources-47:/layout/fragment_my_bookings.xml",
+        "source": "com.nammayantra.share.app-main-50:/layout/fragment_my_bookings.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-mergeDebugResources-47:/layout/fragment_home.xml",
+        "source": "com.nammayantra.share.app-main-50:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-mergeDebugResources-47:/layout/activity_splash.xml",
+        "source": "com.nammayantra.share.app-main-50:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-mergeDebugResources-47:/layout/fragment_profile.xml",
+        "source": "com.nammayantra.share.app-main-50:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-mergeDebugResources-47:/layout/activity_owner_dashboard.xml",
+        "source": "com.nammayantra.share.app-main-50:/layout/activity_owner_dashboard.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-mergeDebugResources-47:/layout/activity_signup.xml",
+        "source": "com.nammayantra.share.app-main-50:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-mergeDebugResources-47:/layout/item_booking.xml",
+        "source": "com.nammayantra.share.app-main-50:/layout/item_booking.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-mergeDebugResources-47:/layout/activity_main.xml",
+        "source": "com.nammayantra.share.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-mergeDebugResources-47:/layout/item_owner_machine.xml",
+        "source": "com.nammayantra.share.app-main-50:/layout/item_owner_machine.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-mergeDebugResources-47:/layout/activity_equipment_detail.xml",
+        "source": "com.nammayantra.share.app-main-50:/layout/activity_equipment_detail.xml"
+    },
+    {
+        "merged": "com.nammayantra.share.app-mergeDebugResources-47:/layout/activity_add_machine.xml",
+        "source": "com.nammayantra.share.app-main-50:/layout/activity_add_machine.xml"
+    }
+]
